@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>Label</key>
+        <string>net.makerbox.standup.plist</string>
+        <key>ProgramArguments</key>
+        <array>
+            <string>~/local/src/github.com/mactkg/standup/standup.sh</string>
+            <string>ADD_TOKEN_HERE</string>
+        </array>
+        <key>StartCalendarInterval</key>
+        <dict>
+            <key>Minute</key>
+            <integer>55</integer>
+        </dict>
+    </dict>
+</plist>
