@@ -1,5 +1,9 @@
 reminder codes to standup and stretch for me
 
+# Can he stand up every weekday?
+
+![svg](https://pixe.la/v1/users/mactkg/graphs/standup.svg)
+
 # install
 
 - `brew bundle`
