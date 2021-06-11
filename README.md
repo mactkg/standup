@@ -3,9 +3,11 @@ reminder codes to standup and stretch for me
 # install
 
 - `brew bundle`
+- edit `standup.sh`
+  - `user` and `graph` variables
+- edit `Library/LaunchAgents/net.makerbox.standup.plist`
+  - `StartCalendarInterval` express when standup command notify you
 - `./install/*`
-- `cp Library/LaunchAgents/net.makerbox.standup.plist ~/Library/LaunchAgents/net.makerbox.standup.plist`
-  - edit some vars
 
 # links
 
